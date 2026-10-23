@@ -1,0 +1,5 @@
+{"q": "What is the difference between WebSocket and SSE?", "gold": "websocket", "doc_id": "ws-sse"}
+{"q": "How do I add an index to a Postgres table?", "gold": "create index", "doc_id": "pg-index"}
+{"q": "What did Karpathy suggest about ASD-STE100?", "gold": "80%", "doc_id": "karpathy-ste"}
+{"q": "What is llms.txt?", "gold": "markdown", "doc_id": "llmstxt"}
+{"q": "Explain the Rust borrow checker", "gold": "ownership", "doc_id": "rust-borrow"}
