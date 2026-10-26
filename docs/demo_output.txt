@@ -1,0 +1,14 @@
+ANSWER
+ Karpathy suggested asking the LLM to explain answers in ASD-STE100, about 80% of the way [1].
+
+TRACE
+  intent: {'kind': 'factual', 'freshness': True}
+  retrieval: {'candidates': 8, 'attempts': 1, 'gate': 0.82, 'passed': True}
+  evidence: {'docs': ['karpathy-ste', 'ws-sse', 'pg-index', 'llmstxt', 'rust-borrow'], 'chunks': 5}
+
+CITATIONS
+  [1] Karpathy on ASD-STE100 prompting <https://example.com/karpathy-ste>
+  [2] WebSocket vs SSE: realtime comparison <https://example.com/ws-sse>
+  [3] Adding an index to a Postgres table <https://example.com/pg-index>
+  [4] The llms.txt proposal <https://example.com/llmstxt>
+  [5] Rust borrow checker explained <https://example.com/rust-borrow>

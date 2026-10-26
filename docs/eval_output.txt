@@ -1,0 +1,8 @@
+query                                     hit@1  gold  cites   faith  result
+What is the difference between WebSocket  True   True  2/2       1.0  PASS
+How do I add an index to a Postgres tabl  True   True  2/2       1.0  PASS
+What did Karpathy suggest about ASD-STE1  True   True  1/1       1.0  PASS
+What is llms.txt?                         True   True  1/1       1.0  PASS
+Explain the Rust borrow checker           True   True  4/4       1.0  PASS
+
+5/5 pass

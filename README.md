@@ -1,5 +1,9 @@
 # answerstack
 
+![answerstack demo: question → 6 pipeline stages → cited answer + eval score](docs/answerstack-demo.png)
+
+<sub>Real output of `python3 examples/demo_local.py` and `python3 eval/run_eval.py` — raw logs in [docs/](docs/).</sub>
+
 An open-source answer-engine **core**: the pipeline behind AI search products, not another chat UI.
 
 Perplexity's engineering blog describes their engine as intent parsing, hybrid retrieval, multi-stage ranking with a quality gate, content understanding, citation-embedded evidence, and constrained synthesis. Existing open-source clones replicate the *product*; answerstack replicates the *pipeline*, eval-first.
